@@ -152,3 +152,4 @@ headful({ title: undefined });
 ## Extensions
 
 * [vue-headful](https://github.com/troxler/vue-headful) - Headful wrapper for Vue.js
+* [vue-simple-headful](https://github.com/VeryWow/vue-simple-headful) - A useful fork of `vue-headful`
